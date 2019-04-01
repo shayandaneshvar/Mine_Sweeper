@@ -8,5 +8,5 @@ Mid-Term Project For Fundamentals of Programming Fall 2018
 
 **In order to unflag a cell Type "ufl" then Enter and add the coordinates.
 
-**In order to exit the programm  type "ext" and press enter.
+**In order to exit the program type "ext" and press enter.
 //////////////////////////////////////////////////////////////////////////////////
